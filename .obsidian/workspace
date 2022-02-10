@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "56682cfef8001a30",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee0232f994991df",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "573ab1c245cc6bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa41b0edd5139de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776ded0e2bd4b7d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ded3672d931795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7c341683ae279a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3757f841b82075eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a043363f9ee444bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dee0232f994991df",
+  "lastOpenFiles": [
+    "Presentations/01 - Introduction (2).pdf",
+    "Notes.md"
+  ]
+}
